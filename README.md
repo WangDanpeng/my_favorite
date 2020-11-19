@@ -19,6 +19,17 @@
 - [shell中的时间操作(今天,昨天,n天前)](https://blog.csdn.net/Ethan_bao/article/details/80191420)
 - [CentOS7网络配置](https://blog.51cto.com/simonhu/1588971)
 
-- [鸟哥的linux私房菜](http://linux.vbird.org/new_linux.php)[书]
-- [linux命令大全(手册)](https://man.linuxde.net/) [检索网站]
+- [书] [鸟哥的linux私房菜](http://linux.vbird.org/new_linux.php)
+- [工具网站] [linux命令大全(手册)](https://man.linuxde.net/)
 
+### Mac
+
+- [mac下idea的快捷键使用](https://my.oschina.net/sunzy/blog/362276)
+- [高效mac工作环境配置](https://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=2655437670&idx=1&sn=043d0fa41a572c1cdca67c5c389fb418&chksm=bd730f118a04860717751527567b8ea3e9310f0cfe465db1783313f41ab52d26290320cef6ea&scene=0&key=4b612fa2a376809640dc51abb014dd14cd3c138ce8f7c75030e4a677f3780ac0bc61c064ba5f53fb662012bb7c54acecc0b9b935d4a78feaf031e930fbaeb1bf1d12cdc8025455ca53fbcd422fffc436&ascene=0&uin=MjkxNzAzNzYwMQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=BBCkuNryDThXxAOM728k0FCSn6jaElzrdEqIuRvO377w9Wz8cidYj7YCTnVtuXl9)
+- [mac破解zip压缩文件密码](https://www.jianshu.com/p/7345247d73c0)
+- [工具网站] [精品mac应用分享](https://xclient.info/)
+- [应用] [PDF大师(PDF Guru)](http://pdfguru.io/#screenshots)
+
+### 编程语言
+
+#### Python
